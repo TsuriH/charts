@@ -87,6 +87,7 @@ main {
 .graphs {
     display: flex;
     align-items: flex-end;
+    justify-content: space-between;
 }
 
 .box {
@@ -198,7 +199,7 @@ text-align: end;
 
 .container {
     width: 90%;
-    
+
 }
 
 header {
@@ -256,6 +257,6 @@ main {
 
 .from-last-month > p {
     font-size: 15px;
-}
+} 
 
 }
